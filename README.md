@@ -1,2 +1,0 @@
-# webpack
-Webpack all projects
